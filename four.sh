@@ -7,3 +7,4 @@ add more test
 test for git-stash
 
 mesage fo puerple mode
+chalo check karte hai 

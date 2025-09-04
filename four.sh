@@ -1,3 +1,4 @@
+#!/bin/bash
 this is another file
 another line
 
@@ -8,3 +9,4 @@ test for git-stash
 
 mesage fo puerple mode
 chalo check karte hai 
+lets tst for jira
